@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Community wealth mark">
+  <rect width="64" height="64" rx="10" fill="#12312f"/>
+  <circle cx="47" cy="17" r="8" fill="#f2b84b"/>
+  <path d="M8 45c9-8 17-8 26 0s17 8 22 0v9H8z" fill="#1fa6a3"/>
+  <path d="M10 35c9-5 18-5 27 0 7 4 12 4 17 0" fill="none" stroke="#f46d59" stroke-width="5" stroke-linecap="round"/>
+  <path d="M20 17h16v15H20z" fill="#f7fbfa"/>
+  <path d="M17 19l11-9 11 9" fill="none" stroke="#f7fbfa" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
